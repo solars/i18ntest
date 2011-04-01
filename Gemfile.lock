@@ -1,0 +1,19 @@
+GIT
+  remote: git://github.com/pejuko/i18n-translators-tools.git
+  revision: 04eea5ecba65fa79dd4b7a5c8325b5c87042876b
+  specs:
+    i18n-translators-tools (0.2.4)
+      i18n (>= 0.5.0)
+      ya2yaml
+
+GEM
+  specs:
+    i18n (0.5.0)
+    ya2yaml (0.30)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  i18n
+  i18n-translators-tools!
